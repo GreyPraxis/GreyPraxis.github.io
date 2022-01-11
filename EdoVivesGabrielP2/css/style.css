@@ -24,6 +24,9 @@ body.fh5co-offcanvas {
   overflow: hidden;
 }
 
+th {
+  text-align:center
+}
 a {
   color: #2da9d7;
   -webkit-transition: 0.5s;
